@@ -14,7 +14,7 @@ const springScreen = (props) => {
     const title = props.navigation.getParam("title")
     const detail = props.navigation.getParam("detail")
 
-    console.log('hiho' + tit)
+   
 
     useEffect( async () => {
         if (Platform.OS !== 'web') {

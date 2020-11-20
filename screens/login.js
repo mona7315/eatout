@@ -7,7 +7,7 @@ const Login = (props) => {
             <Text> LOgin </Text>
             <Button
             title = "Login"
-            onPress = {() => {props.navigation.replace("Home")}}
+            onPress = {() => {props.navigation.replace("Screen2")}}
             />
 
         
