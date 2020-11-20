@@ -8,7 +8,7 @@ const ProfileScreen = () => {
     <View style={{ flex: 1 }}>
 
 
-      <View style={{ justifyContent: "center", alignItems: "center", flex: 1}}>
+      <View style={{ justifyContent: "center", alignItems: "center", flex: 1 }}>
 
         <Image style={{ width: 150, height: 150, }}
 
